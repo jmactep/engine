@@ -1,0 +1,7 @@
+{
+    "name": "jungle/engine",
+    "description": "",
+    "autoload": {
+        "files": ["core.php"]
+    }
+}
